@@ -1,0 +1,6 @@
+{
+  "name": "Shuddh Desi Ghee & Artisanal Panjiri",
+  "description": "Handcrafted pure Desi Ghee and traditional royal Panjiri made with 100% bilona ghee, California almonds, cashews, gond, and makhana. Featuring interactive AI Panjiri video showcase, variety customizer, and direct ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
